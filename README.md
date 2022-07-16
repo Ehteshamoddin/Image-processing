@@ -11,6 +11,7 @@
 - OS library
 - CV2 library
 - PIL library
+- Scipy signal
 
 ## Usage
 ### Clone or Download this repository
