@@ -28,7 +28,11 @@
 - Add new branch if neccessary ``` git branch <branch-name> ``` and Push the Code changes.
 - Generate new 'Pull request'.
 - Briefly specify the changes you have made and submit the request.
-## Author & Creator of Repository [Ehteshamoddin Shafioddin Siddiqui](https://github.com/Ehteshamoddin)
+
+## Credits
+- Author & Creator of Repository [Ehteshamoddin Shafioddin Siddiqui](https://github.com/Ehteshamoddin)
+- Active Contributer [Ravindra Punekar](https://github.com/Ravindra-Punekar)
+
 #### Follow the profile to get to know more about me
 ## Connect with me:
 <p align="left">
